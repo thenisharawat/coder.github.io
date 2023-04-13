@@ -1,0 +1,203 @@
+.cont{
+    position: absolute;
+    top: 200px;
+    left: 70%;
+}
+ .a
+    {
+        position: absolute;
+       text-align: center;
+        top: 500px;
+        width: 190px;
+        height: 150px;
+        padding:5px;
+        background-color: yellow;
+    }
+    .b{
+        position: absolute;
+        top: 500px;
+        left: 200px;
+        width: 300px;
+            height: 150px;
+            padding: 5px;
+            background-color: yellow;
+        
+    }
+    .c{
+        position: absolute;
+        top:500px;
+        left: 400px;
+        width: 200px;
+            height: 150px;
+            padding: 5px;
+            background-color: yellow;
+    }
+    .d{
+        position: absolute;
+        top:500px;
+        left:600px;
+        width: 130px;
+         height: 150px;
+         padding: 5px;
+       background-color: yellow;
+    }
+    .box{
+        background-color: yellow;
+        
+    }
+    .e{
+        position: absolute;
+        top: 700px;
+        left: 840px;
+        font-size: 30px;
+        color: blue;
+    }
+    .f{
+        position: absolute;
+        top:800px;
+        left:900px;
+        font-size: 20px;
+    }
+    .g{
+        position: absolute;
+            top: 820px;
+            left: 900px;
+            font-size: 20px;
+    }
+    .h{
+        position: absolute;
+            top: 840px;
+            left: 900px;
+            font-size: 20px;
+    }
+    .i{
+        position: absolute;
+            top: 860px;
+            left: 900px;
+            font-size: 25px;
+    }
+    .j{
+        position: absolute;
+            top: 894px;
+            left: 900px;
+            font-size: 20px;
+    }
+    .k{
+        position: absolute;
+        top: 1000px;
+        left:1000px;
+    }
+    .m{
+        position: absolute;
+        top: 1050px;
+        left: 1000px;
+        border-radius: 10%;
+        width: 350px;
+        height: 30px;
+    }
+    .n{
+        position: absolute;
+        top:1099px;
+        width: 150px;
+        height: 200px;
+        background-color:yellow;
+    }
+    .o{
+       position: absolute;
+        top: 1099px;
+        left: 190px;
+        height: 200px;
+        width: 150px;
+        background-color:  yellow;
+    }
+    .p{
+        position: absolute;
+            top: 1099px;
+            left: 400px;
+            height: 200px;
+            width: 150px;
+            background-color: yellow;
+    }
+    .q{
+        position: absolute;
+            top: 1099px;
+            left: 600px;
+            height: 200px;
+            width: 150px;
+            background-color: yellow;
+    }
+    .r{
+        position: absolute;
+            top: 1099px;
+            left: 800px;
+            height: 200px;
+            width: 150px;
+            background-color: yellow;
+
+    }
+    .s{
+        position: absolute;
+        top:200% ;
+        left: 200px;
+        font-size: 20px;
+        width: 1090px;
+        height: 330px;
+        background-color: aliceblue;
+    }
+    .t{
+        position: absolute;
+        top:240%;
+        left: 200px;
+        font-size: 30px;
+    }
+    .v{
+        position: absolute;
+        top: 260%;
+        left: 200px;
+        width: 400px;
+        text-align: center;
+        font-size: 20px;
+        background-color: yellow;
+    }
+    .u{
+        position: absolute;
+        top:265% ;
+        left: 200px; 
+        width: 1090px;
+        background-color: yellow;
+    }
+    .w{
+        position: absolute;
+        left: 20px;
+        background-color: yellow;
+    }
+    .x{
+        position: absolute;
+        left:160px;
+        background-color: yellow;
+    }
+    .a1{
+        position: absolute;
+        top: 320%;
+        left: 250px;
+        width: 900px;
+        height: 60px;
+        font-size: 20px;
+        background-color: silver;
+    }
+    .a2{
+        position: absolute;
+        top: 329%;
+        left: 250px;
+        width: 900px;
+        height: 100px;
+        background-color: silver;
+    }
+    .a3{
+        position: absolute;
+        top: 330%;
+        left: 250px;
+        width: 1000px;
+        height: 30px;
+        background-color: silver;
+    }
